@@ -1,4 +1,12 @@
+# Stable diffusion webui:
+
 ### [colab version modified by arfu](https://colab.research.google.com/drive/1Py6G2I32nlELtdYjg9vZiR6MiXSlVkba)
+
+The modification is for downloading the model file to local machine of colab.
+
+# Compared with disco diffusion:
+
+### [colab version of v2](https://colab.research.google.com/drive/1lyJMQt3br7u4bGxQcslSB8SnaI-N973v)
 
 ***********************************************************************************************************************
 
