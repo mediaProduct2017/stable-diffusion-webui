@@ -1,4 +1,10 @@
-### [MAIN REPO](https://github.com/hlky/stable-diffusion)
+### [colab version modified by arfu](https://colab.research.google.com/drive/1Py6G2I32nlELtdYjg9vZiR6MiXSlVkba)
+
+***********************************************************************************************************************
+
+### The original readme of stable-diffusion-webui
+
+[MAIN REPO](https://github.com/hlky/stable-diffusion)
 
 # This repo is for development, there may be bugs and new features
 
